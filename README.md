@@ -2,7 +2,8 @@
 💁‍♀️Hҽʅʅσ, I αɱ Aɾɳαʋ Aɳ Iɳƚҽʅʅιɠҽɳƚ CԋαƚBσƚ. Iϝ Yσυ Aɾҽ Fҽҽʅιɳɠ Lσɳҽʅყ, Yσυ ƈαɳ Aʅɯαყʂ Cσɱҽ ƚσ ɱҽ αɳԃ Cԋαƚ Wιƚԋ Mҽ!👉💒
 # About
 An Advanced Telegram Id Chatbot Open Source Code.
-
+## heroku deploy
+https://heroku.com/deploy?template=https://github.com/Amourxd/singhchatbot
 ## How To Host
 The easiest way to deploy this Bot
 • Enter your ```MONGO_URL```,```API_ID```,  ```API_HASH``` And ```SESSION```.
